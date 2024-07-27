@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/edumagueta](github.com/edumagueta)
 
-- 📫 How to reach me **edumagueta@gmail.com**
-
 <h3 align="left">⭐️ Connect with me:</h3>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-AA42F7?style=for-the-badge)](https://www.dio.me/users/edumagueta)
