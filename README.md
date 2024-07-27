@@ -1,6 +1,6 @@
 <img align="right" width="" src="https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif" alt="codecene">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you%2C+my+name+is+Eduardo!;A+backend+developer+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you%2C+my+name+is+Eduardo!;A+software+developer+student)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **backend development**
 
