@@ -1,4 +1,4 @@
-<img align="right" width="" src="https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif" alt="codecene">
+<img align="right" width="" src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif" alt="codecene">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you%2C+my+name+is+Eduardo!;A+software+developer+student)](https://git.io/typing-svg)
 
