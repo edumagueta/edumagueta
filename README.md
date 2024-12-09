@@ -14,14 +14,13 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-<h2 align="left"> Backend </h2>
-![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=AA42F7)
+<h4 align="left"> Backend </h4>
 
-<h2 align="left"> Frontend </h2>
+<h4 align="left"> Frontend </h4>
 
-<h2 align="left"> Structured Query Language / Database </h2>
+<h4 align="left"> Structured Query Language / Database </h4>
 
-<h2 align="left"> Control Version </h2>
+<h4 align="left"> Control Version </h4>
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=AA42F7)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=AA42F7)](https://docs.github.com/) 
