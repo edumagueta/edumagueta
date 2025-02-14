@@ -1,10 +1,14 @@
 <img align="right" width="300" src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif" alt="codecene">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you%2C+my+name+is+Eduardo!;A+software+developer+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you!;My+name+is+Eduardo+Magueta!;A+software+developer+student)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **backend development**
+<h3 align="left">🌎 About Me</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/edumagueta](github.com/edumagueta)
+- Hello! My name is Eduardo Magueta, I am transitioning my career into software development. I'm studying Analysis and Systems Development while enhancing my skills through courses and bootcamps.
+
+- I focus on backend development using Java with Spring Boot and relational databases. I also have knowledge of AWS, agile methodologies, and basic understanding of Docker.
+
+- Here on GitHub, you will find some of my projects and experiments with different technologies. 🚀
 
 <h3 align="left">⭐️ Connect with me:</h3>
 
