@@ -2,13 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you!;My+name+is+Eduardo+Magueta!;A+software+developer+student)](https://git.io/typing-svg)
 
-<h3 align="left">🌎 About Me</h3>
+<div align="left" style="max-width: 450px;">
+
+### 🌎 About Me
 
 - Hello! My name is Eduardo Magueta, I am transitioning my career into software development. I'm studying Analysis and Systems Development while enhancing my skills through courses and bootcamps.
 
 - I focus on backend development using Java with Spring Boot and relational databases. I also have knowledge of AWS, agile methodologies, and basic understanding of Docker.
 
 - Here on GitHub, you will find some of my projects and experiments with different technologies. 🚀
+
+</div>
 
 <h3 align="left">⭐️ Connect with me:</h3>
 
