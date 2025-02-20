@@ -4,9 +4,9 @@
 
 <h3 align="left">🌎 About Me</h3>
 
-- Hello! My name is Eduardo Magueta, I am transitioning my career into software development. I'm studying Analysis and Systems Development while enhancing my skills through courses and bootcamps.
+- Hello! My name is Eduardo Magueta, and I am a Senior Java Software Developer.
 
-- I focus on backend development using Java with Spring Boot and relational databases. I also have knowledge of AWS, agile methodologies, and basic understanding of Docker.
+- I specialize in backend development using Java with Spring Boot and relational databases. I also have experience with AWS, agile methodologies and Docker. Additionally, I hold AWS certifications and have solid experience in backend development.
 
 - Here on GitHub, you will find some of my projects and experiments with different technologies. 🚀
 
