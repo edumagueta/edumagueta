@@ -1,6 +1,6 @@
 <img align="right" width="200" src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif" alt="codecene">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you!;My+name+is+Eduardo+Magueta!;A+software+developer+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you!;My+name+is+Eduardo+Magueta!;Backend+software+developer)](https://git.io/typing-svg)
 
 <h3 align="left">🌎 About Me</h3>
 
