@@ -2,20 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&pause=600&color=AA42F7&width=435&lines=Welcome+to+my+GitHub!;Nice+to+meet+you!;My+name+is+Eduardo+Magueta!;Backend+software+developer)](https://git.io/typing-svg)
 
-<h3 align="left">🌎 About Me</h3>
+<h3 align="left">🌎 Sobre Mim</h3>
 
-- Hello! My name is Eduardo Magueta, I am transitioning my career into software development. I'm studying Analysis and Systems Development while enhancing my skills through courses and bootcamps.
+- Olá! Meu nome é Eduardo Magueta, estou em transição de carreira. Estou cursando Análise e Desenvolvimento de Sistemas enquanto aprimoro minhas habilidades por meio de cursos e bootcamps.
 
-- I focus on backend development using Java with Spring Boot and relational databases. I also have knowledge of AWS, agile methodologies, and basic understanding of Docker.
+- Tenho foco em desenvolvimento backend utilizando Java com Spring Boot e bancos de dados relacionais. Também possuo conhecimentos em AWS, metodologias ágeis e entendimento básico de Docker, Power BI.
 
-- Here on GitHub, you will find some of my projects and experiments with different technologies. 🚀
+- Aqui no GitHub, você encontrará alguns dos meus projetos e experimentos com diferentes tecnologias. 🚀
 
-<h3 align="left">⭐️ Connect with me:</h3>
+<h3 align="left">⭐️ Se Conecte Comigo:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:edumagueta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=AA42F7)](https://www.linkedin.com/in/eduardo-magueta/)
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Linguagens e Ferramentas:</h3>
 
 <h4 align="left">Backend</h4>
 
@@ -32,13 +32,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=AA42F7)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=AA42F7)
 
-<h4 align="left">Structured Query Language / Database</h4>
+<h4 align="left">SQL / Banco de Dados </h4>
 
 ![PL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle&logoColor=AA42F7)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=AA42F7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=AA42F7)
 
-<h4 align="left">Control Version</h4>
+<h4 align="left">Controle de Versão</h4>
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=AA42F7)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=AA42F7)](https://docs.github.com/) 
