@@ -25,13 +25,6 @@
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=AA42F7)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=AA42F7)
 
-<h4 align="left">Frontend</h4>
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=AA42F7)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=AA42F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=AA42F7)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=AA42F7)
-
 <h4 align="left">SQL / Banco de Dados </h4>
 
 ![PL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle&logoColor=AA42F7)
